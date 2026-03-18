@@ -12,7 +12,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 - :man: Lucía Miranda Blanes
 - :woman: Nuria Guerrero García
-- :woman: Juab Bosco Delage Vadillo 
+- :woman: Juan Bosco Delage Vadillo 
 
 
 Proyecto (código): 
