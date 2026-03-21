@@ -69,6 +69,7 @@ Acabar con el virus de la gelatina capilar que condena a Supremma y Mazapán a l
 
 <img width="1024" height="1536" alt="ChatGPT Image 21 mar 2026, 12_48_24" src="https://github.com/user-attachments/assets/30f6e4af-94f6-4e0f-8a26-9a7a44eb0fc1" />
 
+https://app.lumi.education/run/x1piMH 
 
 - Banner/Teaser:  (enlace) 
 
