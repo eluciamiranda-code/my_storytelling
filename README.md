@@ -52,8 +52,7 @@ Llega un punto de convulsión general que tanto Supremma como Mazapán se revela
 
 ### Historia
 
-
-
+Un mundo tenebroso azotado por un virus que convierte a los seres en gelatinas peludas, una heroína llamada Supremma nace calva y consigo descubre la salvación de dicha infección. La cura hace que las personas que la consumen se queden calvas, siendo así perseguidas por la presidente gelatina Zelatini y sus súbditos. Al empezar a ser perseguida es obligada a ser una superviviente y quedarse viviendo en los márgenes. Es allí donde conoce a su mascota Mazapán, un pájaro que tiene el poder de alterar de tamaño, pudiendo ser a la vez un pequeño colibrí y un gran vehículo para nuestra heroína facilitando la movilización entre bosques gelatinosos. Su misión es derruir el edificio donde se incuban los fetos gelatinosos para así romper con la dictadura capilar. Nace un dilema moral ya que para poder acabar con el virus a de infiltrarse en el edificio Le Coiffure Zelatini y entrar a la sala incubadora donde se encuentran los envases de plásticos de los que nacen estas gelatinas y robar algunas de ellas, acabando así con algunas de las posibles vidas de los fetos, abriendo un debate moral entre lo correcto y lo incorrecto para salvar a una generación. 
 
 ### TagLine
 
