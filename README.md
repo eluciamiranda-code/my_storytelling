@@ -1,6 +1,6 @@
 
-# Proyecto Storytelling (template): 
-### my_storytelling - Supremma, Mazapán & las gelatinas
+# Proyecto Storytelling: Supremma, Mazapán & las gelatinas
+### my_storytelling 
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
 
 
@@ -25,34 +25,36 @@ Tipo/Género:
 - [ ] Comic
 
 
-
 ## Resumen
 
-Un mundo distópico y tenebroso infectado por un virus que convierte a los seres en híbridos gelatinosos peludos, en el que una heroína y su mascota, Supremma y Mazapán, consiguen la cura para volver a ser humano, perdiendo consigo el pelo. Las consecuencias de esto son perjudiciales para ellas, siendo perseguidas por la líder gelatina, Zelatini, y sus soldados. Por ello se esconden viviendo en los márgenes, repatriadas y supervivientes.
+En un mundo distópico dominado por el virus gelatinus capilar que transforma a los seres en gelatinas peludas rosas -Mundo Gelatina-, Supremma y su inseparable compañera Mazapán son anomalías: inmunes, calvas y perseguidas. Tras descubrir que poseen la cura capaz de liberar a la población del sistema capilar perpetrado por la líder Zelatini, se ven obligadas a sobrevivir como nómadas en los márgenes. 
 
-Llega un punto de convulsión general que tanto Supremma como Mazapán se revelan en un acto de rebeldía, involucrándose en un altercado político contra el edificio principal, Le Coiffure Zelatini, donde se incuban los fetos con sus respectivos virus. Las protagonistas se enfrentarán a un dilema moral entre lo correcto y lo incorrecto. 
+Cuando comprenden el poder que poseen, deciden infiltrarse en el corazón del régimen por medio de un atentado de convulsión general contra el inquietante edificio Le Coiffure Zelatini, donde nacen todas las criaturas infectadas. Allí deberán enfrentarse a un dilema moral: destruir el origen del sistema sacrificando vidas potenciales o perpetuar la opresión que combaten.
+
 
 ### Personajes
 
 
-- Supremma: Una bratz muñecona calva con gran iniciativa pero torpeza a iguales partes. Fuerte, resolutiva, culturista, nómada e inocente. La gran heroína.
+- Supremma: 
 
 ![WhatsApp Image 2026-03-20 at 13 10 35](https://github.com/user-attachments/assets/bf3e47b7-7c88-40ae-a151-233e5fb60623)
 
 
-- Mazapán: Un pájarito calvo con peto y pajarita de tamaño casi humano. Autista, genuinamente bueno, infantil, no pilla dobles sentidos. El fiel amigo.
+- Mazapán: 
 
 <img width="1024" height="1536" alt="Pájaro estilizado con overoles y pajarita" src="https://github.com/user-attachments/assets/e871781a-9a4f-455a-a532-71df6a112840" />
 
 
-- Zelatini: Un ser gelatinoso rosa con melena al viento bien frondosa. Es prácticamente Trump.
+- Zelatini: 
 
 <img width="1024" height="1536" alt="Villano gelatinoso alienígena con mirada penetrante" src="https://github.com/user-attachments/assets/6b35527d-11bb-4c47-b5d5-b49a183eb8e9" />
 
 
 ### Historia
 
-Un mundo tenebroso azotado por un virus que convierte a los seres en gelatinas peludas, una heroína llamada Supremma nace calva y consigo descubre la salvación de dicha infección. La cura hace que las personas que la consumen se queden calvas, siendo así perseguidas por la presidente gelatina Zelatini y sus súbditos. Al empezar a ser perseguida es obligada a ser una superviviente y quedarse viviendo en los márgenes. Es allí donde conoce a su mascota Mazapán, un pájaro que tiene el poder de alterar de tamaño, pudiendo ser a la vez un pequeño colibrí y un gran vehículo para nuestra heroína facilitando la movilización entre bosques gelatinosos. Su misión es derruir el edificio donde se incuban los fetos gelatinosos para así romper con la dictadura capilar. Nace un dilema moral ya que para poder acabar con el virus a de infiltrarse en el edificio Le Coiffure Zelatini y entrar a la sala incubadora donde se encuentran los envases de plásticos de los que nacen estas gelatinas y robar algunas de ellas, acabando así con algunas de las posibles vidas de los fetos, abriendo un debate moral entre lo correcto y lo incorrecto para salvar a una generación. 
+En el mundo Gelatina, un lugar tenebroso y en descomposición azotado por el virus gelatinus capilar, la humanidad ha sido transformada en gelatinas peludas rosas sometidas a un sistema opresivo. Supremma, una anomalía nacida calva, descubre la cura: una salvación que libera del virus, pero condena a quienes la toman a ser perseguidos por la líder Zelatini y su régimen. Obligada a sobrevivir en los márgenes, encuentra a Mazapán, un ave capaz de cambiar de tamaño, que se convierte en su aliada para viajar entre los bosques del Mundo YAN donde se esconden.
+
+Juntas emprenden la gran misión: infiltrarse en Le Coiffure Zelatini y destruir las incubadoras donde nacen los nuevos seres infectados. Sin embargo, para lograrlo deberán sacrificar vidas en gestación, enfrentándose a un dilema moral entre salvar a una generación o convertirse en aquello que combaten.
 
 ### TagLine
 
@@ -60,29 +62,41 @@ Aquí está el dilema...¿salvar a las reprimidas calvas o perpetuar el régimen
 
 ### Conflicto 
 
-Acabar con el virus de la gelatina capilar que condena a Supremma y Mazapán a la opresión.
+La historia desemboca en un dilema moral irreconciliable:
 
+¿Es legítimo destruir el origen de una vida para liberar a toda una sociedad?
+¿O toda intervención las convierte en aquello contra lo que luchan?
+
+Entre la liberación colectiva y la violencia estructural, Supremma y Mazapán se ven obligadas a decidir qué significa realmente ser humanas en un mundo que ya no lo es.
 
 ### Productos
 
-- Personajes: (img personajes y enlace a interactivo)
+- Personajes: 
 
 <img width="1024" height="1536" alt="ChatGPT Image 21 mar 2026, 12_48_24" src="https://github.com/user-attachments/assets/30f6e4af-94f6-4e0f-8a26-9a7a44eb0fc1" />
 
-https://app.lumi.education/run/x1piMH 
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/c708832d-f306-4f9a-95f0-fbe26c08baaa" />
 
-- Banner/Teaser:  (enlace) 
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/1c0141bc-df17-42a2-8e28-f38c77a9fe0b" />
+
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7d5cb7d8-7cfb-41dc-b73a-c93d4d58d236" />
 
 
-- Storytelling: (enlace) 
+  ENLACE: https://app.lumi.education/run/x1piMH 
+
+
+- Banner/Teaser:  
+
+
+- Storytelling:
 
 
 
 ### Conclusiones/Valoración del equipo
 
-La realización de la práctica nos ha resultado muy divertida por la libertad creativa que disponíamos. Hemos gozado el poder crear un mundo en el que poder adentrarnos en profundidad y simpatizar con otras posibles realidades. Ha sido muy entretenido crear identidades desde cero, a la par que un dilema moral y ético partiendo de unos post-its tan escuetos. Esto nos enseña que este tipo de actividades pueden entenderse como un espacio para la reflexión a través del arte. 
+De manera general, la realización de esta práctica ha resultado muy entretenida gracias a la libertad creativa que nos brindaba. Así, hemos gozado la oportunidad de construir un mundo propio, explorarlo en profundidad y conectar con realidades alternativas. Por ejemplo, creando identidades desde cero, a la par que desarrollando un dilema moral y ético partiendo de unos post-its tan escuetos. Lo que nos enseña que este tipo de actividades pueden entenderse como un espacio para la reflexión a través del arte. 
 
-Además de potenciar la creatividad, también nos hemos sentido un poco frustrados relativamente debido a la cantidad de plataformas que contábamos para trabajar. Para nosotros un poco complejas de acceder y confusas en su uso, debido a la falta de conocimientos previos para entender su funcionamiento. 
+Aunque la práctica potenció nuestra creatividad, también experimentamos cierta frustración debido a la multiplicidad de plataformas disponibles para la actividad interactiva, que resultaron algo complejas y confusas por nuestra falta de experiencia previa.
 
 Sintetizando, nos ha parecido una práctica muy divertida y completa, que nos ha inspirado a abrir la mente y dejar que la creatividad fuera transversal. 
 
