@@ -84,7 +84,9 @@ Entre la liberación colectiva y la violencia estructural, Supremma y Mazapán s
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/7d5cb7d8-7cfb-41dc-b73a-c93d4d58d236" />
 
 
+
   ENLACE: https://app.lumi.education/run/x1piMH 
+
 
 
 - Banner/Teaser:  
