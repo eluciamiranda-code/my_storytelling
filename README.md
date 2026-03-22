@@ -75,6 +75,8 @@ Entre la liberación colectiva y la violencia estructural, Supremma y Mazapán s
 
 <img width="1024" height="1536" alt="ChatGPT Image 21 mar 2026, 12_48_24" src="https://github.com/user-attachments/assets/30f6e4af-94f6-4e0f-8a26-9a7a44eb0fc1" />
 
+![WhatsApp Image 2026-03-21 at 13 57 13](https://github.com/user-attachments/assets/7d61f4ff-0d00-4bf9-83a5-6d0c531d123f)
+
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/c708832d-f306-4f9a-95f0-fbe26c08baaa" />
 
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/1c0141bc-df17-42a2-8e28-f38c77a9fe0b" />
