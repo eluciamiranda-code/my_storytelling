@@ -16,7 +16,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://github.com/eluciamiranda-code/my_storytelling/blob/main/README.md#proyecto-storytelling-supremma-mazapa%CC%81n--las-gelatinas
 
 
 Tipo/Género:  
