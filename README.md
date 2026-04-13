@@ -1,4 +1,11 @@
 
+# Proyecto en equipo!
+
+Aquí está el proyecto completo del grupo:
+
+https://github.com/eluciamiranda-code/Equipo-Cibertrans 
+
+
 # Proyecto Storytelling: Supremma, Mazapán & las gelatinas
 ### my_storytelling 
 Plantilla para crear mi historia interactiva de la asignatura [Creatividad e innovación Audiovisual](https://www.ugr.es/estudiantes/grados/grado-comunicacion-audiovisual/creacion-difusion-nuevos-contenidos-audiovis), repositorio de proyectos y documentación en https://github.com/mgea/storytelling
