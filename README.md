@@ -92,14 +92,13 @@ Entre la liberación colectiva y la violencia estructural, Supremma y Mazapán s
 
 
 
-  ENLACE: https://app.lumi.education/run/x1piMH 
+- ENLACE Quiz: https://app.lumi.education/run/x1piMH 
 
 
+- ENLACE Banner/Teaser: https://www.figma.com/proto/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=493-333&p=f&t=M88muKd5mUr4IKYx-0&scaling=scale-down&content-scaling=fixed&page-id=205%3A243&starting-point-node-id=493%3A333&show-proto-sidebar=1 
 
-- Banner/Teaser:  
 
-
-- Storytelling:
+- ENLACE Storytelling Arweave: https://arcweave.com/app/project/DvlOqg96dx/play 
 
 
 
